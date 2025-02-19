@@ -10,3 +10,7 @@ Answer: One field data science could be applied to is the health field, as data 
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging creates a new commit whereas Rebasing reapplies a commit. 
+
+Q4: What are you looking forward to this semester?
+
+Answer: Learning about Data Science
